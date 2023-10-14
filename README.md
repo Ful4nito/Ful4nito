@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonathan
 - 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently in Robot Arms
+<!-- - 🌱 I’m currently in Robot Arms
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
